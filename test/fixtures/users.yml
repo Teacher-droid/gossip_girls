@@ -3,7 +3,15 @@
 one:
   first_name: MyString
   last_name: MyString
+  description: MyText
+  email: MyString
+  age: 1
+  password_digest: MyString
 
 two:
   first_name: MyString
   last_name: MyString
+  description: MyText
+  email: MyString
+  age: 1
+  password_digest: MyString

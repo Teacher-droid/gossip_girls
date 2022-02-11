@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class MedicTest < ActiveSupport::TestCase
+class PrivateMessageTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
